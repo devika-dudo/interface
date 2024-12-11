@@ -1,0 +1,8 @@
+prefix=/home/devika/the_last_interface/install
+
+Name: moveit_robotic_armv5
+Description: Description of moveit_robotic_armv5
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

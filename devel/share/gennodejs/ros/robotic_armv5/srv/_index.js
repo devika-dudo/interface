@@ -1,0 +1,1 @@
+/home/devika/the_last_interface/devel/.private/robotic_armv5/share/gennodejs/ros/robotic_armv5/srv/_index.js

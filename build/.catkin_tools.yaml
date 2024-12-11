@@ -1,0 +1,6 @@
+devel_space: /home/devika/the_last_interface/devel
+install: false
+install_space: /home/devika/the_last_interface/install
+profile: default
+source_space: /home/devika/the_last_interface/src
+workspace: /home/devika/the_last_interface

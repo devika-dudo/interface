@@ -1,0 +1,1 @@
+/home/devika/the_last_interface/devel/.private/robotic_armv5/share/roseus/ros/robotic_armv5/srv/Floats_array.l
